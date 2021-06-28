@@ -4,6 +4,8 @@
 "descricao":"Fortnite é um jogo eletrônico multijogador online revelado originalmente em 2011, desenvolvido pela Epic Games e lançado como diferentes modos de jogo que compartilham a mesma jogabilidade e motor gráfico de jogo.",
 "desenvolvedora":"Epic Games",
 "conectividade":"online",
+"google_iframe":"https://youtu.be/-NycdXYBeG4",
+"google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAljrWJ2BxCReaB5eZp7WVoDyTrhkX4W5DNg&usqp=CAU",
 "link":"https://www.epicgames.com/fortnite/pt-BR/mobile/android/get-started"
 },
 {
@@ -12,6 +14,8 @@
 "descricao":"Free Fire é um jogo eletrônico mobile de ação-aventura do gênero battle royale, criado pela desenvolvedora vietnamita 111dots Studio e publicado pela Garena. O jogo obteve um beta aberto em novembro de 2017 e foi lançado oficialmente para Android de iOS em 4 de dezembro de 2017.",
 "desenvolvedora":"111dots Studio",
 "conectividade":"online",
+"google_iframe":"https://youtu.be/PBlGWAqz9lc",
+"google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNuFHlqMRwqf4UXYy8ZVFmRUmmOtA62WX9Q&usqp=CAU",
 "link":"https://play.google.com/store/apps/details?id=com.dts.freefireth"
 },
 {
@@ -20,6 +24,8 @@
 "descricao":"Call of Duty: Warzone é um jogo eletrônico free-to-play do gênero battle royale desenvolvido pela Infinity Ward e Raven Software e publicado pela Activision. Lançado em 10 de março de 2020 para Microsoft Windows, PlayStation 4 e Xbox One, o jogo faz parte do título Call of Duty: Modern Warfare, mas não requer compra.",
 "desenvolvedora":"Raven Software",
 "conectividade":"online",
+"google_iframe":"https://youtu.be/cKTYckLVqQ4",
+"google_logo":"https://lh3.googleusercontent.com/00joOr4-fyAcaDT0sedX9spf0Qw_vTENlnUbw5hkhg1RBth7xegLW8OymVAdWOAjAaA8",
 "link":"https://www.callofduty.com/br/pt/warzone"
 }
 ]
