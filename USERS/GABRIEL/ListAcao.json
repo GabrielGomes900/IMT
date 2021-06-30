@@ -7,7 +7,9 @@
 "conectividade":"online",
 "google_iframe":"https://youtu.be/st7eMfykiVE",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oqEIqWV8H6tGSAnmc067tndTeVgA9dtoOjN6ETNcwqsKLBM_IRiJ-ko&s=10",
-"link":"https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM"
+"link":"https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM",
+"plataformas":"ANDROID|IOS",
+"top_global":"1"
 },
 {
 "banner":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqQvGMwbsaxM4UzCINfE9c80-A5trdx2sBQ&usqp=CAU",
@@ -17,7 +19,9 @@
 "conectividade":"online",
 "google_iframe":"https://youtu.be/Ve_sZBLi2rA",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhWE58ni_KQvFGuiqTKf6eN4QB9IBcGmzxg&usqp=CAU",
-"link":"https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftNOHM"
+"link":"https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftNOHM",
+"plataformas":"ANDROID|IOS",
+"top_global":"2"
 },
 {
 "banner":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwawNp1YqA6pXotTB8K9KChvsNLfFtUqZCdQ&usqp=CAU",
@@ -27,7 +31,9 @@
 "conectividade":"online",
 "google_iframe":"https://youtu.be/Tily13fSHdU",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8eE7QMED_nyc6wGw-SnPInni1Owvh32Q_OA&usqp=CAU",
-"link":"https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter"
+"link":"https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+"plataformas":"ANDROID|IOS",
+"top_global":"3"
 },
 {
 "banner":"https://play-lh.googleusercontent.com/J9bkhE_2J9nbzqSstBqX7_73u_GIjF082kVZ7jn7MX_gAtlXWuERXAYXUelIdevJHYjD",
@@ -37,6 +43,7 @@
 "conectividade":"online",
 "google_iframe":"https://youtu.be/YqQJsZDzZZQ",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELHpoGx3V0xbDkdPR6Ct-A-xCzMyRLX5WXA&usqp=CAU",
-"link":"https://play.google.com/store/apps/details?id=com.gamedevltd.destinywarfare"
+"link":"https://play.google.com/store/apps/details?id=com.gamedevltd.destinywarfare",
+"plataformas":"ANDROID|IOS"
 }
 ]
