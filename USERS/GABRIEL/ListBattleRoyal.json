@@ -7,7 +7,8 @@
 "google_iframe":"https://youtu.be/E9zq63iGlvM",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyMsOCAz9RuWJ4lyN2NFIrvB_9vnp7dmYnxSnHJl1jZRjN5g2WRoGPaI&s=10",
 "link":"https://www.epicgames.com/fortnite/pt-BR/mobile/android/get-started",
-"plataformas":"ANDROID|IOS"
+"plataformas":"ANDROID|IOS",
+"top_global":"1"
 },
 {
 "banner":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZrBPbYk26w0kkQgIcByi8mcYwNXfLvZPVg&usqp=CAU",
@@ -18,7 +19,8 @@
 "google_iframe":"https://youtu.be/PBlGWAqz9lc",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJFrN3eQIGM5pQEi5-X_3jI3iykm4Z4NNBaxs35vsv9sxqnLDpaVSaKw&s=10",
 "link":"https://play.google.com/store/apps/details?id=com.dts.freefireth",
-"plataformas":"ANDROID|IOS"
+"plataformas":"ANDROID|IOS",
+"top_global":"2"
 },
 {
 "banner":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKfycOIZtWzboeMuQq31Iaq1qUhant9Tm4w&usqp=CAU",
@@ -29,6 +31,7 @@
 "google_iframe":"https://youtu.be/Tily13fSHdU",
 "google_logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFYZYKCSHw4sucYdSAK9N8iI3IBZIINEBpdUqq3nk_d-caX1MMgEJVyA&s=10",
 "link":"https://www.callofduty.com/br/pt/warzone",
-"plataformas":"ANDROID"
+"plataformas":"ANDROID",
+"top_global":"3"
 }
 ]
